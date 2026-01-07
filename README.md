@@ -47,7 +47,8 @@ Half-duplex communication is a mode of data transmission in which both devices c
 example:
  * Walkie-talkies
  * I²C communication between microcontroller and sensors
-## Full-duplex communication is a mode of data transmission in which both devices can send and receive data at the same time, allowing continuous two-way communication, and common examples include UART communication between a PC and microcontroller, SPI protocol where MOSI and MISO work simultaneously, and telephone conversations where both people can speak and listen at the same time.
+## full duplex
+Full-duplex communication is a mode of data transmission in which both devices can send and receive data at the same time, allowing continuous two-way communication, and common examples include UART communication between a PC and microcontroller, SPI protocol where MOSI and MISO work simultaneously, and telephone conversations where both people can speak and listen at the same time.
 example:
  * Telephone calls
  * UART with separate TX and RX lines
